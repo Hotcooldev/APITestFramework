@@ -1,0 +1,5 @@
+2018-08-02 20:08:54.549 [main] INFO  com.testing.api.BaseTest - Test testGetGooglePlacesNotFound is finished.
+2018-08-02 20:08:54.564 [main] INFO  com.testing.api.BaseTest - Test testGetGooglePlacesValid will be started
+2018-08-02 20:08:55.439 [main] INFO  com.testing.api.BaseTest - Test testGetGooglePlacesValid finished.
+2018-08-02 20:08:55.441 [main] INFO  com.testing.api.BaseTest - Test testStaticMapMissingParameters will be started
+2018-08-02 20:08:58.850 [main] INFO  com.testing.api.BaseTest - Test testStaticMapMissingParameters is finished.

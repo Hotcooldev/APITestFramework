@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="6" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="8042" started-at="2018-04-01T18:10:13Z" finished-at="2018-04-01T18:10:21Z">
+    <groups>
+    </groups>
+    <test name="Regression1" duration-ms="8042" started-at="2018-04-01T18:10:13Z" finished-at="2018-04-01T18:10:21Z">
+      <class name="com.testing.api.SearchPlaceTest">
+        <test-method status="PASS" signature="testGetGooglePlacesMissingParam()[pri:0, instance:com.testing.api.SearchPlaceTest@353d0772]" name="testGetGooglePlacesMissingParam" duration-ms="690" started-at="2018-04-01T18:10:18Z" finished-at="2018-04-01T18:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetGooglePlacesMissingParam -->
+        <test-method status="PASS" signature="testGetGooglePlacesNotFound()[pri:0, instance:com.testing.api.SearchPlaceTest@353d0772]" name="testGetGooglePlacesNotFound" duration-ms="941" started-at="2018-04-01T18:10:19Z" finished-at="2018-04-01T18:10:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetGooglePlacesNotFound -->
+        <test-method status="PASS" signature="testGetGooglePlacesValid()[pri:0, instance:com.testing.api.SearchPlaceTest@353d0772]" name="testGetGooglePlacesValid" duration-ms="1112" started-at="2018-04-01T18:10:20Z" finished-at="2018-04-01T18:10:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetGooglePlacesValid -->
+        <test-method status="PASS" signature="testStaticMapMissingParameters()[pri:0, instance:com.testing.api.SearchPlaceTest@353d0772]" name="testStaticMapMissingParameters" duration-ms="702" started-at="2018-04-01T18:10:21Z" finished-at="2018-04-01T18:10:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStaticMapMissingParameters -->
+      </class> <!-- com.testing.api.SearchPlaceTest -->
+      <class name="com.testing.api.AddDeletePlaceTest">
+        <test-method status="PASS" signature="getData()[pri:0, instance:com.testing.api.AddDeletePlaceTest@10e41621]" name="getData" is-config="true" duration-ms="270" started-at="2018-04-01T18:10:13Z" finished-at="2018-04-01T18:10:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="AddAndDeleteplace()[pri:0, instance:com.testing.api.AddDeletePlaceTest@10e41621]" name="AddAndDeleteplace" duration-ms="4311" started-at="2018-04-01T18:10:14Z" finished-at="2018-04-01T18:10:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddAndDeleteplace -->
+      </class> <!-- com.testing.api.AddDeletePlaceTest -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

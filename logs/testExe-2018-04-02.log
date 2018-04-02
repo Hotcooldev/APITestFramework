@@ -1,0 +1,5 @@
+2018-08-02 20:08:51.096 [main] INFO  com.testing.api.BaseTest - Test testGetGooglePlacesNotFound will be started
+2018-08-02 20:08:53.214 [main] INFO  com.testing.api.BaseTest - Test testGetGooglePlacesNotFound will be started
+2018-08-02 20:08:53.656 [main] INFO  com.testing.api.BaseTest - Test testGetGooglePlacesMissing Param will be started
+2018-08-02 20:08:54.143 [main] INFO  com.testing.api.BaseTest - Test testGetGooglePlacesMissing is finished.
+2018-08-02 20:08:54.145 [main] INFO  com.testing.api.BaseTest - Test testGetGooglePlacesNotFound will be started

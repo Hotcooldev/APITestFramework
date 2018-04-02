@@ -1,0 +1,5 @@
+2018-10-01 20:10:17.711 [main] INFO  com.testing.api.BaseTest - Deleting one more time. This time place should not be found.
+2018-10-01 20:10:18.456 [main] INFO  com.testing.api.BaseTest - Place not found.
+2018-10-01 20:10:18.460 [main] INFO  com.testing.api.BaseTest - Test testGetGooglePlacesMissing Param will be started
+2018-10-01 20:10:19.149 [main] INFO  com.testing.api.BaseTest - Test testGetGooglePlacesMissing is finished.
+2018-10-01 20:10:19.150 [main] INFO  com.testing.api.BaseTest - Test testGetGooglePlacesNotFound will be started

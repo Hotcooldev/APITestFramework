@@ -1,0 +1,4 @@
+com\testing\api\googleAPI\MapResources.class
+com\testing\api\googleAPI\ReusableSpecification.class
+com\testing\api\googleAPI\Payload.class
+com\testing\api\utils\Constants.class
